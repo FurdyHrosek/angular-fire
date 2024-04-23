@@ -2,8 +2,3 @@
  base = "furdy-fire"
  command = "npm run build:prod"
  publish = "dist/furdy-fire"
-
- [[redirects]]
- from = "/*"
- to = "index.html"
- status = 200
